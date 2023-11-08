@@ -1,0 +1,11 @@
+C:\Users\mbkei\repos\mix-alchemy\mix-alchemy-api\target\debug\deps\libtwox_hash-f90f0399e2894a3f.rmeta: C:\Users\mbkei\.cargo\registry\src\index.crates.io-6f17d22bba15001f\twox-hash-1.6.3\src\lib.rs C:\Users\mbkei\.cargo\registry\src\index.crates.io-6f17d22bba15001f\twox-hash-1.6.3\src\sixty_four.rs C:\Users\mbkei\.cargo\registry\src\index.crates.io-6f17d22bba15001f\twox-hash-1.6.3\src\thirty_two.rs C:\Users\mbkei\.cargo\registry\src\index.crates.io-6f17d22bba15001f\twox-hash-1.6.3\src\xxh3.rs C:\Users\mbkei\.cargo\registry\src\index.crates.io-6f17d22bba15001f\twox-hash-1.6.3\src\std_support.rs
+
+C:\Users\mbkei\repos\mix-alchemy\mix-alchemy-api\target\debug\deps\libtwox_hash-f90f0399e2894a3f.rlib: C:\Users\mbkei\.cargo\registry\src\index.crates.io-6f17d22bba15001f\twox-hash-1.6.3\src\lib.rs C:\Users\mbkei\.cargo\registry\src\index.crates.io-6f17d22bba15001f\twox-hash-1.6.3\src\sixty_four.rs C:\Users\mbkei\.cargo\registry\src\index.crates.io-6f17d22bba15001f\twox-hash-1.6.3\src\thirty_two.rs C:\Users\mbkei\.cargo\registry\src\index.crates.io-6f17d22bba15001f\twox-hash-1.6.3\src\xxh3.rs C:\Users\mbkei\.cargo\registry\src\index.crates.io-6f17d22bba15001f\twox-hash-1.6.3\src\std_support.rs
+
+C:\Users\mbkei\repos\mix-alchemy\mix-alchemy-api\target\debug\deps\twox_hash-f90f0399e2894a3f.d: C:\Users\mbkei\.cargo\registry\src\index.crates.io-6f17d22bba15001f\twox-hash-1.6.3\src\lib.rs C:\Users\mbkei\.cargo\registry\src\index.crates.io-6f17d22bba15001f\twox-hash-1.6.3\src\sixty_four.rs C:\Users\mbkei\.cargo\registry\src\index.crates.io-6f17d22bba15001f\twox-hash-1.6.3\src\thirty_two.rs C:\Users\mbkei\.cargo\registry\src\index.crates.io-6f17d22bba15001f\twox-hash-1.6.3\src\xxh3.rs C:\Users\mbkei\.cargo\registry\src\index.crates.io-6f17d22bba15001f\twox-hash-1.6.3\src\std_support.rs
+
+C:\Users\mbkei\.cargo\registry\src\index.crates.io-6f17d22bba15001f\twox-hash-1.6.3\src\lib.rs:
+C:\Users\mbkei\.cargo\registry\src\index.crates.io-6f17d22bba15001f\twox-hash-1.6.3\src\sixty_four.rs:
+C:\Users\mbkei\.cargo\registry\src\index.crates.io-6f17d22bba15001f\twox-hash-1.6.3\src\thirty_two.rs:
+C:\Users\mbkei\.cargo\registry\src\index.crates.io-6f17d22bba15001f\twox-hash-1.6.3\src\xxh3.rs:
+C:\Users\mbkei\.cargo\registry\src\index.crates.io-6f17d22bba15001f\twox-hash-1.6.3\src\std_support.rs:

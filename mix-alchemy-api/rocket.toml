@@ -1,0 +1,2 @@
+[global.databases]
+concrete_db = { url = "mysql://admin:admin@localhost/mix_alchemy_db" }

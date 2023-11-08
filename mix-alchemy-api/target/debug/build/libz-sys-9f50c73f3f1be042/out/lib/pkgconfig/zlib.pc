@@ -1,0 +1,13 @@
+prefix=C:\Users\mbkei\repos\mix-alchemy\mix-alchemy-api\target\debug\build\libz-sys-9f50c73f3f1be042\out
+exec_prefix=@exec_prefix@
+libdir=@libdir@
+sharedlibdir=@sharedlibdir@
+includedir=@includedir@
+
+Name: zlib
+Description: zlib compression library
+Version: @VERSION@
+
+Requires:
+Libs: -L${libdir} -L${sharedlibdir} -lz
+Cflags: -I${includedir}
